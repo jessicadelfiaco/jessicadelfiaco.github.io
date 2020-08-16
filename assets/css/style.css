@@ -68,11 +68,11 @@ body {
 
 .circulo {
     background: rgb(221, 221, 221);
-    border-radius: 52px;
-    width: 38px;
-    height: 38px;
+    border-radius: 55px;
+    width: 48px;
+    height: 48px;
     text-align: center;
-    font-size: 10px;
+    font-size: 13px;
     color: rgb(32, 32, 32);
 }
 
